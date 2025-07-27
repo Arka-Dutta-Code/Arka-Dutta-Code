@@ -1,16 +1,25 @@
-## Hi there 👋
+<!-- Hi there 👋 -->
+<h2 align="center">Hey there! I'm Arka Dutta 👋</h2>
+<p align="center">
+  🚀 MERN Stack Developer | 💻 Passionate Learner | 🌱 Exploring JavaScript Daily
+</p>
 
-<!--
-**Arka-Dutta-Code/Arka-Dutta-Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a **School Bus Tracker MERN project**
+- 🌱 Learning daily: **React.js, Node.js, MongoDB, and JavaScript**
+- 💬 Ask me about: MERN Stack, REST APIs, Git & GitHub
+- ⚡ Fun fact: I love debugging more than I love coffee ☕
+- 📫 Reach me at: `arkadutta032001@gmail.com` 
+
+---
+
+### 🛠️ Tech Stack
+
+```js
+💻 Languages: JavaScript, HTML, CSS  
+🧠 Frameworks & Libraries: React, Express, Node.js  
+🛢️ Database: MongoDB MySQL
+🔧 Tools: Git, GitHub, VS Code, Postman, Thunder Client  
