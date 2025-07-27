@@ -25,4 +25,6 @@
 💻 Languages: JavaScript, HTML, CSS  
 🧠 Frameworks & Libraries: React.js, Node.js, Express.js  
 🛢️ Database: MongoDB  
-🔧 Tools: Git, GitHub, Postman, Thunder Client, VS Code  
+🔧 Tools: Git, GitHub, Postman, Thunder Client, VS Code
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Arka-Dutta-Code&show_icons=true&theme=tokyonight" alt="Arka's GitHub Stats" /> <br /> <img src="https://github-readme-streak-stats.herokuapp.com?user=Arka-Dutta-Code&theme=tokyonight" alt="GitHub Streak" /> <br /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arka-Dutta-Code&layout=compact&theme=tokyonight" alt="Top Languages" /> </p> 
