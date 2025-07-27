@@ -8,7 +8,6 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on a **School Bus Tracker MERN project**
 - 🌱 Learning daily: **React.js, Node.js, MongoDB, and JavaScript**
 - 💬 Ask me about: MERN Stack, REST APIs, Git & GitHub
 - ⚡ Fun fact: I love debugging more than I love coffee ☕
