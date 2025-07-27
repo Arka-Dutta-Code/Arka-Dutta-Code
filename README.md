@@ -1,17 +1,21 @@
-<!-- Hi there 👋 -->
-<h2 align="center">Hey there! I'm Arka Dutta 👋</h2>
+<!-- Profile README for Arka Dutta -->
+
+<h1 align="center">Hi 👋, I'm Arka Dutta</h1>
+<h3 align="center">A passionate MERN Stack Developer from India 🇮🇳</h3>
+
 <p align="center">
-  🚀 MERN Stack Developer | 💻 Passionate Learner | 🌱 Exploring JavaScript Daily
+  <img src="https://komarev.com/ghpvc/?username=arka-dutta&label=Profile%20views&color=0e75b6&style=flat" alt="arka-dutta" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🌱 Learning daily: **React.js, Node.js, MongoDB, and JavaScript**
-- 💬 Ask me about: MERN Stack, REST APIs, Git & GitHub
-- ⚡ Fun fact: I love debugging more than I love coffee ☕
-- 📫 Reach me at: `arkadutta032001@gmail.com` 
+- 💻 I enjoy building web applications using JavaScript and the MERN Stack  
+- 🌱 Currently improving my skills in **React, MongoDB, and backend APIs**
+- 🧠 Learning every day and exploring open-source contributions
+- 📫 You can reach me at **arkadutta.dev@gmail.com**
+- ⚡ Fun fact: I like solving coding problems and helping others debug theirs!
 
 ---
 
@@ -19,15 +23,6 @@
 
 ```js
 💻 Languages: JavaScript, HTML, CSS  
-🧠 Frameworks & Libraries: React, Express, Node.js  
-🛢️ Database: MongoDB MySQL
-🔧 Tools: Git, GitHub, VS Code, Postman, Thunder Client
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arka-dutta&show_icons=true&theme=react" alt="Arka's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arka-dutta&theme=react" />
-</p>
-
+🧠 Libraries & Frameworks: React.js, Node.js, Express.js  
+🛢️ Database: MongoDB  
+🔧 Tools: Git, GitHub, Postman, Thunder Client, VS Code  
