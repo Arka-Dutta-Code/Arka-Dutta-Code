@@ -25,6 +25,34 @@
 💻 Languages: JavaScript, HTML, CSS  
 🧠 Frameworks & Libraries: React.js, Node.js, Express.js  
 🛢️ Database: MongoDB  
-🔧 Tools: Git, GitHub, Postman, Thunder Client, VS Code
+🔧 Tools: Git, GitHub, Postman, Thunder Client, VS Code  
+```
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Arka-Dutta-Code&show_icons=true&theme=tokyonight" alt="Arka's GitHub Stats" /> <br /> <img src="https://github-readme-streak-stats.herokuapp.com?user=Arka-Dutta-Code&theme=tokyonight" alt="GitHub Streak" /> <br /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arka-Dutta-Code&layout=compact&theme=tokyonight" alt="Top Languages" /> </p> 
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arka-Dutta-Code&show_icons=true&theme=tokyonight" alt="Arka's GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Arka-Dutta-Code&theme=tokyonight" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arka-Dutta-Code&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p>
+  <a href="mailto:arkadutta2580@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/arka-dutta-dev" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+⭐️ *Thanks for visiting my GitHub profile! Feel free to explore my repositories and leave a star ⭐ on projects you like.*
