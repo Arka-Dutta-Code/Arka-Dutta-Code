@@ -1,58 +1,66 @@
-<!-- Profile README for Arka Dutta -->
-
 <h1 align="center">Hi 👋, I'm Arka Dutta</h1>
-<h3 align="center">A passionate MERN Stack Developer from India 🇮🇳</h3>
+<h3 align="center">A passionate Full Stack (MERN) Developer from India</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arka-Dutta-Code&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Arka+Dutta;MERN+Stack+Developer;Lifelong+Learner+%F0%9F%93%9A;Open+to+Collaboration+%F0%9F%92%AA)](https://git.io/typing-svg)
 
 ---
 
-### 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-- 💻 I enjoy building web applications using JavaScript and the MERN Stack  
-- 🌱 Currently improving my skills in **React, MongoDB, and backend APIs**
-- 🧠 Learning every day and exploring open-source contributions
-- 📫 Reach me at: **arkadutta2580@gmail.com**
-- ⚡ Fun fact: I love solving bugs more than creating them 😄
-
----
-
-### 🛠️ Tech Stack
-
-```js
-💻 Languages: JavaScript, HTML, CSS  
-🧠 Frameworks & Libraries: React.js, Node.js, Express.js  
-🛢️ Database: MongoDB  
-🔧 Tools: Git, GitHub, Postman, Thunder Client, VS Code  
-```
+- 🔭 I’m currently working on learning advanced **React** and **Node.js**
+- 🌱 I’m currently exploring **System Design** and **DSA**
+- 👯 I’m looking to collaborate on MERN stack projects
+- 💬 Ask me about **JavaScript, React, MongoDB, Express, Node**
+- 📫 How to reach me: **arkadutta2580@gmail.com**
+- ⚡ Fun fact: I love debugging more than coding 😄
 
 ---
 
-### 📈 GitHub Stats
+## 💻 Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arka-Dutta-Code&show_icons=true&theme=tokyonight" alt="Arka's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Arka-Dutta-Code&theme=tokyonight" alt="GitHub Streak" />
-  <br />
+- **Languages:** JavaScript, HTML, CSS , CPP , Core JAVA
+- **Frameworks & Libraries:** React.js, Node.js, Express.js ,Tailwind CSS
+- **Database:** MongoDB MySQL
+- **Tools:** Git, GitHub, Postman, Thunder Client, VS Code 
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Arka-Dutta-Code&show_icons=true&theme=tokyonight" alt="Arka's GitHub Stats" /> <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Arka-Dutta-Code&theme=tokyonight" alt="GitHub Streak" /> <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arka-Dutta-Code&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-### 🌐 Connect with Me
+## 🏆 GitHub Trophies
 
-<p>
-  <a href="mailto:arkadutta2580@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/arka-dutta-b3b30a377/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" />
-  </a>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Arka-Dutta-Code&theme=tokyonight&column=7" />
 </p>
 
 ---
 
-⭐️ *Thanks for visiting my GitHub profile! Feel free to explore my repositories and leave a star ⭐ on projects you like.*
+## 📈 Contribution Graph
+
+[![Arka's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Arka-Dutta-Code&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🌍 Visitor Badge
+
+<p align="center">
+  <img src="https://geolocation-db.com/badge.svg" alt="Visitor Geo Badge" />
+</p>
+
+---
+
+## 🔗 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/arka-dutta-code)
+- 👨‍💻 [LeetCode](https://leetcode.com/your_leetcode_username_here)
+- 📘 [GeeksforGeeks](https://auth.geeksforgeeks.org/user/your_gfg_username_here)
+
+---
