@@ -45,15 +45,17 @@
 
 ## 📈 Contribution Graph
 
-[![Arka's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Arka-Dutta-Code&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Arka's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Arka-Dutta-Code&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
 
 ---
 
 ## 🌍 Visitor Badge
 
 <p align="center">
-  <img src="https://geolocation-db.com/badge.svg" alt="Visitor Geo Badge" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Arka-Dutta-Code" alt="Visitor Badge" />
 </p>
+
 
 ---
 
