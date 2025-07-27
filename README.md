@@ -48,7 +48,7 @@
   <a href="mailto:arkadutta2580@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/arka-dutta-dev" target="_blank">
+  <a href="https://www.linkedin.com/in/arka-dutta-b3b30a377/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" />
   </a>
 </p>
